@@ -1,0 +1,366 @@
+01 1 Fruzsina, Bazil
+01 2 Abel, Gergely, Vazul
+01 3 Genoveva, Gyongyver, Benjamin, Dzsenifer, ((Jennifer))
+01 4 Titusz, Leona, Angela
+01 5 Simon, Emilia
+01 6 Gaspar, Menyhert, Boldizsar
+01 7 Attila, Etele, Ramona, Rajmund, Balint
+01 8 Gyongyver, Keve, Szeverin, Szoreny
+01 9 Marcell, Julianusz,
+01 10 Melania, Vilmos, Vilma
+01 11 Agota, Honorata
+01 12 Erno, Erneszta, Tatjana
+01 13 Veronika, Csongor, Yvett
+01 14 Bodog, Felix
+01 15 Lorant, Lorand, Pal
+01 16 Gusztav, Marcell
+01 17 Antal, Antonia
+01 18 Margit, Piroska
+01 19 Sara, Marta, Mario
+01 20 Fabian, Sebestyen
+01 21 Agnes, Agneta
+01 22 Vince, Artur
+01 23 Zelma, Rajmund, Emerencia, Emese
+01 24 Timot, Ferenc
+01 25 Pal, Henrik
+01 26 Vanda, Paula, Timoteusz
+01 27 Angela, Angelika
+01 28 Karoly, Karola, Tamas
+01 29 Adel, Valer
+01 30 Martina, Gerda, Jacinta
+01 31 Marcella, Janos
+02 1 Ignac, Brigitta, Kincso
+02 2 Karolina, Karola, Aida
+02 3 Balazs, Oszkar, Celerina
+02 4 Rahel, Csenge, Veronika, Andras
+02 5 Agota, Ingrid, Etelka, Leda01 
+02 6 Dorottya, Dora, Pal
+02 7 Todor, Romeo, Richard
+02 8 Aranka, Jeromos
+02 9 Abigel, Alex, Apollonia
+02 10 Elvira
+02 11 Bertold, Marietta
+02 12 Livia, Lidia, Eulalia
+02 13 Ella, Linda, Levente, Katalin
+02 14 Balint, Valentin, Cirill, Metod
+02 15 Kolos, Gyorgyi, Georgina
+02 16 Julianna, Lilla, Filippa
+02 17 Donat
+02 18 Bernadett, Simon, Zenko
+02 19 Zsuzsanna, Eliza, Konrad
+02 20 Aladar, Almos, Leo
+02 21 Eleonora, Zelmira, Peter
+02 22 Gerzson, Margit, Zeteny
+02 23 Alfred, Polikarp, Mirtill
+02 24 *Matyas, Jazmin
+02 25 *Geza, Cezar, Vanda
+02 26 Viktor, Gyozo
+02 27 *Akos, Bator, Gabor,Edina
+02 28 *Elemer, Oszvald, Roman
+03 1 Albin, Albina, Leonita,
+03 2 Lujza, Agnes, Henrik, Magor
+03 3 Kornelia, Kunigunda, Frigyes
+03 4 Kazmer, Luciusz, Zoran
+03 5 Adorjan, Adrian
+03 6 Leonora, Inez, Koletta
+03 7 Tamas, Perpetua, Felicitasz
+03 8 Janos, Zoltan, Apolka
+03 9 Franciska, Fanni
+03 10 Ildiko, Emil, Gusztav
+03 11 Szilard, Timea, Konstantin
+03 12 Gergely, Maximilian
+03 13 Krisztian, Ajtony, Egyed, Patricia
+03 14 Matild, Matilda, Trilla
+03 15 Kristof, Kelemen
+03 16 Henrietta, Herbert
+03 17 Gertrud, Patrik
+03 18 Sandor, Ede, Cirill
+03 19 Jozsef, Bank
+03 20 Klaudia, Alexandra
+03 21 Benedek, Bence, Miklos
+03 22 Beata, Izolda, Lea
+03 23 Emoke, Botond, Otto, Kartal
+03 24 Gabor, Karina
+03 25 Iren, Irisz, Lucia
+03 26 Emanuel, Emanuela, Lara, Larissza, Arpad
+03 27 Hajnalka, Lidia, Auguszta
+03 28 Gedeon, Johanna
+03 29 Auguszta, Bertold
+03 30 Zalan
+03 31 Arpad, Benjamin, Beno
+04 1 Hugo, Agad
+04 2 Aron, Ferenc
+04 3 Buda, Richard, Hovirag, Indira
+04 4 Izidor
+04 5 Vince, Iren, Teodora
+04 6 Vilmos, Biborka, Taksony, Celesztin
+04 7 Herman, Janos
+04 8 Denes, Valer, Valter
+04 9 Erhard, Akos, Dome
+04 10 Zsolt, Ezekiel
+04 11 Leo, Szaniszlo, Gloria
+04 12 Gyula, Baldvin, Saba, Nara
+04 13 Ida, Marton, Hermina
+04 14 Tibor
+04 15 Anasztazia, Tas, Oktavia
+04 16 Csongor, Bernadett
+04 17 Rudolf, Izidora
+04 18 Andrea, Ilma, Apollo, Aladar
+04 19 Emma, Malvin, Zseraldina
+04 20 Tivadar, Tihamer, Tohotom
+04 21 Konrad, Zelmira, Anzelm
+04 22 Csilla, Noemi, Kajusz
+04 23 Bela, Adalbert
+04 24 Gyorgy, Fidel, Debora
+04 25 Mark, Anyos
+04 26 Ervin, Kletusz
+04 27 Zita, Mariann, Anasztaz
+04 28 Valeria, Peter
+04 29 Peter, Katalin, Roberta
+04 30 Katalin, Kitti, Zsofia, Piusz
+05 1 Fulop, Jakab, Zsaklin, Jefte, Jozsef
+05 2 Zsigmond, Atanaz, Zoe
+05 3 Timea, Irma, Jakab, Fulop
+05 4 Monika, Florian
+05 5 Gyorgyi, Iren
+05 6 Ivett, Frida, Judit, Yvett
+05 7 Gizella, Gusztav, Bendeguz, Galia
+05 8 Mihaly, Gyozo
+05 9 Gergely, Katinka, Alberta, Edua
+05 10 Armin, Palma, Izidor
+05 11 Ferenc
+05 12 Pongrac
+05 13 Szervac, Imola, Imelda
+05 14 Bonifac, Gyongyi
+05 15 Zsofia, Szonja, Doniz
+05 16 Mozes, Botond, Janos
+05 17 Paszkal, Ditmar, Rezeda
+05 18 Erik, Alexandra, Janos
+05 19 Ivo, Ivan, Milan
+05 20 Bernat, Bernardin, Felicia
+05 21 Konstantin, Andras
+05 22 Julia, Rita, Emil
+05 23 Dezso, Vilmos, Renata
+05 24 Eszter, Eliza, Vanessza
+05 25 Orban, Gergely
+05 26 Fulop, Evelin
+05 27 Hella, Pelbart, Agoston
+05 28 Emil, Csanad, Vilmos
+05 29 Magdolna, Magda, Ervin, Lena
+05 30 Janka, Zsanett, Johanna, Nandor
+05 31 Angela, Petronella
+06 1 Tunde, Jusztinusz
+06 2 Karmen, Anita, Peter, Marcellinusz
+06 3 Klotild, Cecilia, Karoly, Kevin
+06 4 Bulcsu, Kereny, Kerubin
+06 5 Frezia, Fatime, Fatima, Bonifac
+06 6 Norbert, Norberta, Cintia
+06 7 Robert, Robertina, Arianna, Fulop, Roberta
+06 8 Medard, Helga
+06 9 Felix, Elod, Annamaria, Annabella
+06 10 Margit, Greta
+06 11 Barnabas, Barango
+06 12 Villo, Orfeusz, Adelaida
+06 13 Antal, Anett
+06 14 Vazul, Elizeus, Herta
+06 15 Jolan, Vid, Viola, Ariana
+06 16 Jusztin, Jusztina, Aureliusz
+06 17 Laura, Alida, Alina, Szabolcs, Adolf, Bato
+06 18 Arnold, Levente, Doloroza
+06 19 Gyarfas, Romuald, Azurea
+06 20 Rafael, Dina
+06 21 Alajos, Leila
+06 22 Paulina, Tamas
+06 23 Zoltan, Szultana
+06 24 Janos, Ivan
+06 25 Vilmos, Viola, Vilma
+06 26 Janos, Pal, Cirill
+06 27 Laszlo, Samson
+06 28 Levente, Iren, Ireneusz
+06 29 Peter, Pal, Emoke, Judit, Petra, Szulamit, Ivett
+06 30 Pal
+07 1 Tihamer, Annamaria, Oliver, Aron
+07 2 Otto
+07 3 Kornel, Soma, Tamas
+07 4 Ulrik, Erzsebet
+07 5 Emese, Sarolta, Lotti, Antal, Nara
+07 6 Csaba, Maria
+07 7 Apollonia, Vilibald, Bene
+07 8 Ellak, Edgar, Eperke
+07 9 Lukrecia, Veronika, Hajnalka
+07 10 Amalia, Melina Engelbert, Ulrika
+07 11 Nora, Lili, Nelli, Benedek
+07 12 Izabella, Dalma, Eleonora
+07 13 Jeno, Henrik
+07 14 Ors, Stella, Kamil
+07 15 Orkeny, Henrik, Roland, Bonaventura
+07 16 Valter, Irma
+07 17 Endre, Elek, Andras
+07 18 Szomer, Frigyes, Milla, Hedvig, Mirko
+07 19 Emilia
+07 20 Illes, Margareta
+07 21 Daniel, Daniella, Lorinc
+07 22 Magdolna, Maria, Magda, Nara
+07 23 Lenke, Brigitta, Apollinar
+07 24 Kinga, Kunigunda, Kincso, Krisztina
+07 25 Kristof, Jakab
+07 26 Anna, Aniko, Joakim
+07 27 Olga, Liliana, Natalia, Pantaleon
+07 28 Szabolcs, Alina, Ince, Gyozo
+07 29 Marta, Flora
+07 30 Judit, Xenia, Peter
+07 31 Oszkar, Ignac, Bato
+08 1 Boglarka, Nimrod, Alfonz
+08 2 Lehel
+08 3 Hermina, Lidia, Kamelia, Kira, Mirtill
+08 4 Domonkos, Dominik, Janos, Dominika
+08 5 Krisztina
+08 6 Berta, Bettina
+08 7 Ibolya
+08 8 Laszlo, Domonkos
+08 9 Emod, Roman
+08 10 Lorinc, Blanka, Csilla
+08 11 Zsuzsanna, Tiborc, Klara
+08 12 Klara, Hilaria, Diana
+08 13 Ipoly, Ince, Vitalia
+08 14 Marcell, Maximilian
+08 15 Maria
+08 16 Abraham, Rokus
+08 17 Jacint, Reka, Heteny
+08 18 Ilona, Rajnald
+08 19 Huba, Marian, Emilia
+08 20 Istvan, Bernat
+08 21 Samuel, Hajna, Piusz
+08 22 Menyhert, Mirjam
+08 23 Bence, Roza, Szidonia
+08 24 Bertalan, Aliz, Detre
+08 25 Lajos, Patricia
+08 26 Izso, Talia, Natalia, Zamfira
+08 27 Gaspar, Monika
+08 28 Agoston, Mozes
+08 29 Beatrix, Erna
+08 30 Rozsa, Felix, Leticia
+08 31 Erika, Bella, Arisztid
+09 1 Egyed, Egon, Noemi, Tamara
+09 2 Rebeka, Dorina, Renata, Ingrid, Istvan
+09 3 Hilda, Gergely
+09 4 Rozalia, Roza, Ida
+09 5 Viktor, Lorinc, Ofelia
+09 6 Zakarias, Beata, Brajen
+09 7 Regina
+09 8 Maria, Adrienn
+09 9 Adam, Peter
+09 10 Nikolett, Hunor, Miklos
+09 11 Teodora, Jacint, Igor, Helga
+09 12 Maria, Irma
+09 13 Kornel, Janos
+09 14 Szerena, Roxana
+09 15 Eniko, Melitta
+09 16 Edit, Ciprian
+09 17 Zsofia, Robert
+09 18 Diana, Jozsef
+09 19 Vilhelmina, Januariusz, Dorian
+09 20 Friderika
+09 21 Mate, Mirella, Jonas
+09 22 Moric, Tamas
+09 23 Tekla, Liviusz, Ila, Nara
+09 24 Gellert, Gerda, Mercedesz
+09 25 Eufrozina, Kende
+09 26 Jusztina, Kozma, Damjan
+09 27 Adalbert, Vince
+09 28 Vencel, Salamon
+09 29 Mihaly, Gabor, Rafael Mirabella
+09 30 Jeromos, Honoria, Hunor
+10 1 Malvin, Terez
+10 2 Petra, Ors
+10 3 Helga, Evald
+10 4 Ferenc, Hajnalka
+10 5 Aurel, Placid, Attila
+10 6 Bruno, Renata, Renato
+10 7 Amalia, Bekeny
+10 8 Koppany, Benedikta
+10 9 Denes, Janos
+10 10 Gedeon, Ferenc, Bendeguz
+10 11 Brigitta, Placida, Etel, Gitta
+10 12 Miksa, Rezso, Edvin
+10 13 Kalman, Ede, Edvard
+10 14 Helen, Kaldixtusz
+10 15 Terez, Aranka
+10 16 Gal, Margit, Hedvig
+10 17 Hedvig, Ignac, Rudolf
+10 18 Lukacs, Jusztusz
+10 19 Nandor, Janos, Pal
+10 20 Vendel, Iren, Kleopatra
+10 21 Orsolya, Zsolt
+10 22 Elod, Szalome, Kordelia
+10 23 Gyongyver, Janos, Gyongyi
+10 24 Salamon, Antal
+10 25 Blanka, Bianka, Beniel,Mor
+10 26 Domotor, Armand, Ors
+10 27 Szabina, Antonietta
+10 28 Simon, Szimonetta, Szimona, Judas, Tade
+10 29 Narcisz, Melinda, Ozike
+10 30 Alfonz, Zenobia
+10 31 Farkas, Rodrigo, Wolfgang
+11 1 Marianna
+11 2 Achilles, Bato
+11 3 Gyozo, Marton
+11 4 Karoly, Karola
+11 5 Imre, Zakarias, Teteny
+11 6 Lenard
+11 7 Csenger, Rezso, Erno, Florentin
+11 8 Zsombor, Kolos, Gottfrid
+11 9 Tivadar
+11 10 Reka, Andras, Leo
+11 11 Marton, Atad, Todor
+11 12 Jonas, Renato, Jozafat
+11 13 Szilvia, Szaniszlo
+11 14 Aliz, Vanda, Huba, Klementina
+11 15 Albert, Lipot
+11 16 Odon, Margit
+11 17 Hortenzia, Gergo, Denes
+11 18 Jeno
+11 19 Erzsebet, Zsoka
+11 20 Jolan, Zsolt, Odon, Bodog
+11 21 Oliver
+11 22 Cecilia, Filemon
+11 23 Kelemen, Klementina, Kolumban
+11 24 Emma, Flora, Virag
+11 25 Katalin, Liza, Katinka
+11 26 Virag, Szvetlana, Konrad, Viktoria, Milos
+11 27 Virgil, Virginia
+11 28 Stefania, Jakab
+11 29 Taksony, Ilma, Filomena
+11 30 Andras, Andor, Andrea
+12 1 Elza, Natalia, Blanka, Bonita
+12 2 Melinda, Vivien, Aranka
+12 3 Ferenc, Olivia
+12 4 Borbala, Barbara, Janos
+12 5 Vilma, Unige, Csaba
+12 6 Miklos, Csinszka, Gyopar, Gyoparka
+12 7 Ambrus, Ambrozia
+12 8 Maria, Emoke
+12 9 Natalia, Valeria, Filotea
+12 10 Judit, Loretta, Eulalia
+12 11 Arpad, Arpadina, Damazusz
+12 12 Gabriella, Johanna, Franciska
+12 13 Luca, Otilia, Lucia, Eda, Tilia
+12 14 Szilarda, Szilard, 
+12 15 Valer, Detre
+12 16 Etelka, Aletta, Adelaida
+12 17 Lazar, Olimpia
+12 18 Auguszta, Gracian
+12 19 Viola, Anasztaz
+12 20 Teofil, Liberatusz
+12 21 Tamas, Peter
+12 22 Zeno, Florian
+12 23 Viktoria, Janos
+12 24 Adam, Eva, Adel
+12 25 Eugenia, Anasztazia
+12 26 Istvan
+12 27 Janos, Teodor
+12 28 Kamilla, Apor
+12 29 Tamas, Tamara
+12 30 David, Hunor, Liberiusz
+12 31 Szilveszter
+
